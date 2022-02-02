@@ -1,0 +1,48 @@
+*{
+    margin: auto;
+    
+
+}
+
+#secform{
+    background-image: url("13.jpg");
+    padding: 250px;
+    margin: 35px;
+    text-align: left;
+    color: beige;
+
+}
+
+input{
+    background-color: antiquewhite;
+    padding: 10px;
+    width: 100%;
+    resize: vertical;
+    border-radius: 5px;
+
+}
+
+textarea{
+    background-color: antiquewhite;
+    padding: 10px;
+    width: 100%;
+    resize: vertical;
+    border-radius: 5px;
+
+}
+ 
+input:visited{
+    padding: auto;
+    border: 3px;
+    box-shadow: inset;
+}
+
+button{
+    color:brown;
+    background-color: bisque;
+    padding: 30px;
+    text-align: center;
+    
+
+    
+}
